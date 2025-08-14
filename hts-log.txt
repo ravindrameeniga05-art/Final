@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 14 Aug 2025 09:40:11 at https://www.ecchouk.co.uk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.ecchouk.co.uk/ -O1 "D:\Second" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:40:32	Error: 	"Not Found" (404) at link https://www.ecchouk.co.uk/www.ecchouk.co.uk/favicon_big.png (from https://www.ecchouk.co.uk/)
+09:40:32	Error: 	"Not Found" (404) at link https://www.ecchouk.co.uk/maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css (from https://www.ecchouk.co.uk/)
+09:40:37	Error: 	"Not Found" (404) at link https://www.ecchouk.co.uk/cdn.jsdelivr.net/npm/bootstrap%405.3.0/dist/js/bootstrap.bundle.min.js (from https://www.ecchouk.co.uk/)
+09:40:53	Error: 	"Not Found" (404) at link https://www.ecchouk.co.uk/assets/css/animate (from https://www.ecchouk.co.uk/about-us)
+09:40:53	Error: 	"Not Found" (404) at link https://www.ecchouk.co.uk/index-2 (from https://www.ecchouk.co.uk/about-us)
+
+HTTrack Website Copier/3.49-2 mirror complete in 42 seconds : 159 links scanned, 153 files written (20147171 bytes overall) [19007342 bytes received at 452555 bytes/sec], 1474239 bytes transferred using HTTP compression in 25 files, ratio 19%, 34.4 requests per connection
+(5 errors, 0 warnings, 0 messages)
